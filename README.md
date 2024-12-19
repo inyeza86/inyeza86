@@ -1,4 +1,4 @@
-# Hi there, I'm [Kodjovi Amedimele]! 👋
+# Hi there, I'm Kodjovi Amedimele! 👋
 
 ![Banner](https://via.placeholder.com/1000x200/4682B4/FFFFFF?text=Welcome+to+My+GitHub+Profile)
 
